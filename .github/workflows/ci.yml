@@ -39,7 +39,7 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            dzintars/fedora:latest
-            dzintars/fedora:33
+            oswee/fedora:latest
+            oswee/fedora:33
             ghcr.io/dzintars/fedora:latest
             ghcr.io/dzintars/fedora:33
